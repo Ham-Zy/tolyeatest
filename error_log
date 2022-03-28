@@ -1,0 +1,1161 @@
+[20-Feb-2022 22:47:04 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[20-Feb-2022 22:47:05 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[20-Feb-2022 23:28:56 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[20-Feb-2022 23:28:59 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[20-Feb-2022 23:29:02 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[20-Feb-2022 23:29:05 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[20-Feb-2022 23:29:07 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:07 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:09 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:09 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:10 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:11 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:12 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:13 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:14 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:15 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:15 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:16 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:17 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:17 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:18 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:20 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:20 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:22 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:23 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:25 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:26 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:27 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[21-Feb-2022 02:27:28 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:38:26 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:38:27 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:38:28 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:38:29 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:38:32 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:49 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:50 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:50 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:51 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:52 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:52 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:53 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:54 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:54 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:55 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:56 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:56 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:57 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:59 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:43:59 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:44:00 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:44:01 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:44:02 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:44:04 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:44:05 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:44:07 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[22-Feb-2022 18:44:07 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:46 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:46 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:48 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:49 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:50 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:50 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:51 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:51 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:52 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:52 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:53 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:53 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:54 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:54 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:55 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:55 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:56 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:57 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:05:57 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:06:56 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:06:57 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:07:00 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:07:03 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:07:07 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:01 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:02 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:04 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:06 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:07 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:08 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:09 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:10 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:11 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:11 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:12 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:13 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:15 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:16 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:17 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:18 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:18 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:19 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 00:24:21 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:19:55 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:19:55 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:19:56 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:19:57 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:19:58 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:19:59 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:19:59 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:00 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:01 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:02 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:04 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:05 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:06 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:06 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:07 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:09 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:10 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:11 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:13 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:14 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:16 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 05:20:16 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 17:10:35 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[23-Feb-2022 18:39:37 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:14:59 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:15:14 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:15:32 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:16:28 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:17:28 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:17:39 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:19:04 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:20:07 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:20:22 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:20:41 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:20:54 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:21:25 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:21:45 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:21:48 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:22:23 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:23:28 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:23:30 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:25:36 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:25:41 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:26:10 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:26:18 UTC] PHP Fatal error:  Uncaught ErrorException: chr() expects parameter 1 to be int, string given in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php:356
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'chr() expects p...', '/home2/webdev/a...', 356, Array)
+#1 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(356): chr('')
+#2 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(442): Symfony\Component\HttpFoundation\Response->_toString('<!DOCTYPE html>...')
+#3 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/laravel/framework/src/Illuminate/Http/Response.php(45): Symfony\Component\HttpFoundation\Response->setContent('<!DOCTYPE html>...')
+#4 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php(207): Illuminate\Http\Response->setContent('<!DOCTYPE html>...')
+#5 /home2/webdev/alibaba.websitedevelopment.com.pk/vendor in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/symfony/http-foundation/Response.php on line 356
+[24-Feb-2022 13:27:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 42288576 bytes) in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/filp/whoops/src/Whoops/Util/TemplateHelper.php on line 208
+[24-Feb-2022 13:27:28 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 23068712 bytes) in /home2/webdev/alibaba.websitedevelopment.com.pk/vendor/filp/whoops/src/Whoops/Util/HtmlDumperOutput.php on line 23
+[09-Mar-2022 02:50:46 UTC] PHP Deprecated:  Function create_function() is deprecated in /home2/webdev/alibaba.websitedevelopment.com.pk/crnxvm.php on line 2
+[09-Mar-2022 02:50:47 UTC] PHP Deprecated:  Function create_function() is deprecated in /home2/webdev/alibaba.websitedevelopment.com.pk/crnxvm.php on line 2
+[09-Mar-2022 03:04:39 UTC] PHP Deprecated:  Function create_function() is deprecated in /home2/webdev/alibaba.websitedevelopment.com.pk/crnxvm.php on line 2
+[09-Mar-2022 03:04:40 UTC] PHP Deprecated:  Function create_function() is deprecated in /home2/webdev/alibaba.websitedevelopment.com.pk/crnxvm.php on line 2
+[09-Mar-2022 03:04:40 UTC] PHP Warning:  mail() has been disabled for security reasons in /tmp/mbdvd0/sess_f6eb15ce09f3e91a6b4e81577eaf2f66email on line 22
+[09-Mar-2022 03:04:40 UTC] PHP Warning:  Creating default object from empty value in /tmp/mbdvd0/sess_7342277d99cfbd7ac179ed31fd7dd8adcore on line 156
+[09-Mar-2022 03:04:40 UTC] PHP Deprecated:  Function create_function() is deprecated in /home2/webdev/alibaba.websitedevelopment.com.pk/crnxvm.php on line 2
